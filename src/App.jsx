@@ -1,10 +1,10 @@
 import { useState } from "react";
-import shoes from "./images/shoes.jpg";
-import watch from "./images/watch.jpg";
-import buds from "./images/buds.jpg";
-import sunglasses from "./images/sunglasses.jpg";
-import wallet from "./images/wallet.jpg";
-import baby from "./images/baby-knit.jpg";
+import shoes from "./Images/shoes.jpg";
+import watch from "./Images/watch.jpg";
+import buds from "./Images/buds.jpg";
+import sunglasses from "./Images/sunglasses.jpg";
+import wallet from "./Images/wallet.jpg";
+import baby from "./Images/baby-knit.jpg";
 
 
 
