@@ -1,5 +1,5 @@
 import { useState } from "react";
-import image from "./images/shoes.jpg";
+import shoes from "./images/shoes.jpg";
 import watch from "./images/watch.jpg";
 import buds from "./images/buds.jpg";
 import sunglasses from "./images/sunglasses.jpg";
@@ -36,7 +36,7 @@ function App(){
       {/*card1*/}
       <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition-all">
         <img
-          src={image}
+          src={shoes}
           alt="Pair of stylish sneakers with white soles and colorful accents placed on a wooden surface in a well-lit modern room, conveying a trendy and energetic mood"
           className="w-full h-48 object-cover rounded"
         />
