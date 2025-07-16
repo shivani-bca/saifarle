@@ -4,7 +4,7 @@ import watch from "./images/watch.jpg";
 import buds from "./images/buds.jpg";
 import sunglasses from "./images/sunglasses.jpg";
 import wallet from "./images/wallet.jpg";
-import baby from "./images/baby knit.jpg";
+import baby from "./images/baby-knit.jpg";
 
 
 
